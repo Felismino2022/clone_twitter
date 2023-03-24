@@ -1,0 +1,51 @@
+/*Códigos reutilisáveis*/
+/*textos*/
+/*Body*/
+/*============== NavBar ================*/
+
+nav > div > a > i.fa.fa-twitter{
+    font-size: 35pt;
+ }
+ 
+ nav{
+   /* background-color: rgba(214, 214, 214, 0.527);*/
+  /* background-color: rgba(214, 214, 214, 0.404);*/
+ }
+ 
+ #SiteTwitter > ul > li > a{
+    color: rgb(141, 141, 141);
+ }
+
+ #SiteTwitter > ul > li > a:hover{
+    color: rgb(255, 255, 255);
+ }
+  
+ a.navbar-brand.mb-0{
+    color: rgb(141, 141, 141);
+ }
+ 
+ nav > div > a > i{
+    color: rgb(255, 255, 255);
+    background-color: rgb(0, 183, 255);
+    border-radius: 5px;
+    padding: 2px;
+ }
+ /*============== Section ================*/
+ div.col-12.sectionCor{
+    background-color: rgba(214, 214, 214, 0.527);
+    border-radius: 5px;
+ }
+
+ /*#ii{
+     width: 600px;
+     height: 600px;
+     background-color: rgb(0, 81, 255);
+     margin: auto;
+ }
+
+ .ja{
+   width: 600px;
+   height: 600px;
+   background-color: rgb(255, 0, 0);
+   margin: auto;
+}*/
